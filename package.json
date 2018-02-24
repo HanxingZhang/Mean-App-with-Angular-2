@@ -1,0 +1,27 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular2 for HOA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanxingZhang/Mean-App-with-Angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Hanxing Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanxingZhang/Mean-App-with-Angular-2/issues"
+  },
+  "homepage": "https://github.com/HanxingZhang/Mean-App-with-Angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
+  }
+}
