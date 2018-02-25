@@ -6,8 +6,8 @@ import {AppRoutingModule} from "./app-routing.module";
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
-import {FormsModule} from "@angular/forms";
-import {HttpModule} from "@angular/http";
+// import {FormsModule} from "@angular/forms";
+// import {HttpModule} from "@angular/http";
 
 
 @NgModule({
@@ -20,8 +20,8 @@ import {HttpModule} from "@angular/http";
   ],
   imports: [
     BrowserModule,
-    FormsModule,
-    HttpModule,
+    // FormsModule,
+    // HttpModule,
     AppRoutingModule
 
   ],
